@@ -1,0 +1,52 @@
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    
+
+}
+.navastyle{
+    margin-left: 20px;
+    text-decoration: none;
+    color: #4b4c4d;
+}
+.Button{
+    background-color: red;
+    opacity: 20%;
+}
+.NavColor{
+    background-color: rgb(255, 255, 255);
+}
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important;
+}
+.CarouselSize{
+        
+    z-index: 1;
+    max-height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(51, 51, 51, 0.23) 0px 3px 6px;
+    background-color: red;
+    
+}
+.img {
+    max-height: 500px;
+
+
+}
+
+.AppStyle{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr ;
+
+
+}
+
