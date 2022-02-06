@@ -1,0 +1,19 @@
+.blog-footer {
+    
+    margin-top: 30px;
+    padding: 40px 0;
+    background-color: #ffffff;
+    color: #4b4c4d;
+    text-align: center;
+    font-size: 1.5vh;
+}
+a{
+    text-decoration: none;
+    color: #4b4c4d;
+}
+.FooterLink{
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
