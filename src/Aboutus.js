@@ -10,7 +10,7 @@ function Aboutus(){
    <div className="mt-2">
        <div className='Aboutus AboutusP'>
        <p class="fw-bold">About Us</p>
-        <p class="fw-light">Tbilisi Property offers a unique service to all investors and home buyers interested in benefiting from the real estate opportunities in Georgia’s capital, 
+        <p class="fw-light">Webmedia offers a unique service to all investors and home buyers interested in benefiting from the real estate opportunities in Georgia’s capital, 
         guiding potential buyers through the entire purchasing process from start to finish:</p>
         <p class="fw-bold">Purchasing</p>
         <p class="fw-light">First we listen to your requirements and then we show you the best offers that meet with your budget and purchasing goals. We only work with the biggest,

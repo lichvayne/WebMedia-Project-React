@@ -9,7 +9,7 @@ function Header1(){
     return (
       
         
-        <div className='NavbarStyle'>
+        <div >
             
           <nav className='navbar navbar-expand-lg  NavColor '>
   <div className="container-fluid astyle">

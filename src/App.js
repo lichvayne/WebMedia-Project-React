@@ -1,3 +1,4 @@
+
 import Header1 from "./Header";
 import Carousel from "./Carousel";
 import Aboutus from "./Aboutus";
@@ -12,6 +13,7 @@ function App(){
     <div className="AppStyle">
       <Header1 />
       <Carousel />
+
       <Aboutus />
       <Slider />
       <Footer />
