@@ -1,12 +1,14 @@
 
 .Aboutus{
+    margin-top: 30px;
     display: grid;
     grid-template-columns: 1fr;
     height: 100%;
     width: 100%;
     padding: 50px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    border: 2px solid rgb(151, 151, 151);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 25px;
     
 }
 

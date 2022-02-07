@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "Name":"Dighomi 2b",
+        "image": "./Images/digomi-2b.webp",
+        "Location":"Tbilisi, Dighomi"
+    },
+    {
+        "id": 2,
+        "Name":"Ortachala Resort",
+        "Location":"Tbilisi, Ortachala"
+    },
+    {
+        "id": 3,
+        "Name":"Landmark Jikia",
+        "Location":"Tbilisi, Saburtalo"
+    },
+    {
+        "id": 4,
+        "Name":"Dighomi 2b",
+        "Location":"Tbilisi, Dighomi"
+    },
+    {
+        "id": 5,
+        "Name":"Dighomi 2b",
+        "Location":"Tbilisi, Dighomi"
+    }
+    
+
+
+
+
+]

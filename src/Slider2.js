@@ -1,7 +1,8 @@
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
-import PropertyImage from './Images/PropertyImage.jpg'
-import './Slider.css'
+import CompanyImage from './Images/CompanyImage.jpg'
+import PropertyData from './PropertyData.json'
+import './Slider2.css'
 
 import React, { Component } from "react";
 import Slider from "react-slick";
@@ -51,7 +52,7 @@ export default class Responsive extends Component {
       <div >
       <div className="MoreProperties">
       <a href="">
-      <h5>More Properties</h5>
+      <h5>More Agencies</h5>
     </a>
     </div>
         <Slider {...settings}>
@@ -63,12 +64,12 @@ export default class Responsive extends Component {
         <div className="product-box">
          
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -80,12 +81,12 @@ export default class Responsive extends Component {
           <li class="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -96,12 +97,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -112,12 +113,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -128,12 +129,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -144,12 +145,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -160,12 +161,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -176,12 +177,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -192,12 +193,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -207,12 +208,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
@@ -222,12 +223,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div className="product-text">
         <div className="type">
         <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+
         </div>
         </div>
         </div>		
@@ -237,12 +238,12 @@ export default class Responsive extends Component {
           <li className="product-item">
         <div className="product-box">
         <div className="product-img">
-        <img alt="" src={PropertyImage} height="300px" width="300px"></img>
+        <img alt="" src={CompanyImage} height="300px" width="300px"></img>
         </div>
         <div class="product-text">
         <div class="type">
-        <a href="#">კომპლექსის სახელი</a>
-        <span>აღწერა</span>
+        <a href="#">კომპანიის სახელი</a>
+
         </div>
         </div>
         </div>		
