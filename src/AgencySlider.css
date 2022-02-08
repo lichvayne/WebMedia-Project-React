@@ -1,7 +1,5 @@
 .SliderSize{
-    margin-top: 10px;
-    border: 2px;
-    border-color: black;
+
     max-width: 80%;
     margin-left: 10%;
     max-height: 500px;
@@ -13,7 +11,7 @@ li {
     list-style-type: none;
 }
 .product-box {
-    border: 1px grey solid;
+    border: 3px rgb(255, 255, 255) solid;
     max-width: 300px;
     height: 400px;
     box-shadow: 2px 2px 30px rgb(0 0 0 / 20%);
@@ -21,18 +19,29 @@ li {
     overflow: hidden;
     margin: 25px;
     
+    
 }
 .product-img {
     max-height: auto;
 
+    
 }
-.MoreProperties a{
+.MoreAgencies a{
     color: grey;
     text-decoration: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+  
 }
-.MoreProperties{
-    margin-top: 50px;
+.MoreAgencies{
+    margin-top: 100px;
     margin-left: 2%;
+    height: 40px;
+    width: 150px;
+    
 }
 .product-text {
     max-width: 100%;
@@ -46,4 +55,5 @@ li {
 .type {
     display: flex;
     flex-direction: column;
+    
 }

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "Name":"Terrace Group",
+        "Image": "https://static.house.ge/HouseGe/6_7912cf6c-f08b-4751-a606-c657abc3c250.jpg",
+        "Location":"Tbilisi, Zhgenti # 7a"
+    },
+    {
+        "id": 2,
+        "Name":"Arch",
+        "Image": "https://static.house.ge/HouseGe/10_fea4a40c-d14d-4c9f-858f-1753eadb3fb4.png",
+        "Location":"Tbilisi, Kipshidze # 15"
+    },
+    {
+        "id": 3,
+        "Name":"AIM - Aim Building",
+        "Image": "https://static.house.ge/HouseGe/6_d88c53b2-4e97-4198-ae39-2c1392b12f13.jpg",
+        "Location":"Tbilisi, Takaishvili # 37"
+    },{
+        "id": 4,
+        "Name":"Domus",
+        "Image": "https://static.house.ge/HouseGe/6_bbe1f0c4-d52a-4064-a458-1b0ab4f3fae2.jpg",
+        "Location":"Tbilisi, Kavsadze # 3"
+    },{
+        "id": 5,
+        "Name":"Arctic",
+        "Image": "https://static.house.ge/HouseGe/19_69d9223f-035c-40eb-879f-a36477c12a9e.png",
+        "Location":"Bakuriani, Agmashenebeli # 21a"
+    },{
+        "id": 6,
+        "Name":"m2",
+        "Image": "https://static.house.ge/HouseGe/12_7ef0b508-f048-4e4b-8afb-df37cc76ecbd.jpg",
+        "Location":"15 Alexander Kazbegi 0160 Tbilisi, Georgia "
+    },{
+        "id": 7,
+        "Name":"BLOX",
+        "Image": "https://static.house.ge/HouseGe/8_0fce9b84-9639-4da8-a5ee-c5f4f2c5dec4.jpg",
+        "Location":"Tbilisi, Agmashenebeli Alley # 19"
+    },{
+        "id": 8,
+        "Name":"Gumbati Group",
+        "Image": "https://static.house.ge/HouseGe/5_935598ff-4aaf-4d8e-9ea1-a08d8d057157.png",
+        "Location":"Batumi, Sheriff Khimshiashvili # 1"
+    },{
+        "id": 9,
+        "Name":"Monolith group",
+        "Image": "https://static.house.ge/HouseGe/6_eb0f2eed-1978-45ad-abf2-f5b372082450.png",
+        "Location":"Tbilisi, Bezhan Kalandadze # 1"
+    },{
+        "id": 10,
+        "Name":"Dona Group",
+        "Image": "https://static.house.ge/HouseGe/19_95aa5149-ad10-43b7-bae6-e85e00e6d68e.png",
+        "Location":"Tbilisi, Gorgasali # 40"
+    },{
+        "id": 11,
+        "Name":"Axis",
+        "Image": "https://static.house.ge/HouseGe/12_e9e3f40f-581a-4660-9c1d-210c68080046.png",
+        "Location":"Tbilisi, Kazbegi Avenue # 24"
+    }
+    ,{
+        "id": 12,
+        "Name":"Anagi Development",
+        "Image": "https://static.house.ge/HouseGe/1_740a6afd-bc61-4bf7-8d0f-d208a20b7045.png",
+        "Location":"Tbilisi, Merab Kostava # 37/39"
+    }
+    
+    
+
+
+
+
+]

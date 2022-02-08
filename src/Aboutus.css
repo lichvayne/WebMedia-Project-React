@@ -1,15 +1,27 @@
 
 .Aboutus{
-    margin-top: 30px;
-    display: grid;
-    grid-template-columns: 1fr;
+    margin-top: 50px;
     height: 100%;
-    width: 100%;
+    width: auto;
     padding: 50px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
     border: 2px solid rgb(255, 255, 255);
     border-radius: 25px;
-    
+    box-sizing: content-box;
+    border-width: 8px;
+    border-style: solid;
+    border-image: linear-gradient(to right bottom, #035096,#035096);
+    border-image-slice: 1;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-sizing: content-box;
+    border-width: 8px;
+    border-style: solid;
+    border-image: linear-gradient(to right , #2d87db, #a053df);
+    border-image-slice: 1;
+    background-image: linear-gradient(white,white), linear-gradient(to right, #2d87db, #a053df);
+    background-clip: padding-box, border-box;
+    background-origin: border-box;
 }
 
 .AboutusP{

@@ -1,0 +1,42 @@
+
+.Contact{
+    height: 100%;
+    margin-top: 80px;
+    width: 50%;
+    margin-left: 25%;
+    padding: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0 15px 30px 0 rgba(0,0,0,0.11),
+    0 5px 15px 0 rgba(0,0,0,0.08);
+
+  
+}
+h3{
+    margin-left: 45%;
+    font-size: 2.2vh;
+    color: grey;
+    text-decoration: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+  
+}
+label{
+    font-size: 2.2vh;
+    color: grey;
+    text-decoration: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+  
+}
+  
+
+.submitbutton{
+    margin-top: 20px;
+    font-size: 2.2vh;
+}

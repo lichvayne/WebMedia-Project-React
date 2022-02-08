@@ -2,31 +2,77 @@
     {
         "id": 1,
         "Name":"Dighomi 2b",
-        "image": "./Images/digomi-2b.webp",
+        "Image":"https://tbilisi-property.com/wp-content/uploads/2017/11/dighomi-2b-thumb-1.jpg",
         "Location":"Tbilisi, Dighomi"
     },
     {
         "id": 2,
         "Name":"Ortachala Resort",
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2022/01/ortachala-resort-key.jpg",
         "Location":"Tbilisi, Ortachala"
     },
     {
         "id": 3,
         "Name":"Landmark Jikia",
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2020/01/landmark-thumb.jpg",
         "Location":"Tbilisi, Saburtalo"
     },
     {
         "id": 4,
-        "Name":"Dighomi 2b",
-        "Location":"Tbilisi, Dighomi"
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2019/07/riviera-thumb.jpg",
+        "Name":"Riviera Apart-hotel",
+        "Location":"Tbilisi, Didube"
     },
     {
         "id": 5,
-        "Name":"Dighomi 2b",
-        "Location":"Tbilisi, Dighomi"
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2017/09/dirsi-key-new-thumb-1.jpg",
+        "Name":"Dirsi",
+        "Location":"Tbilisi, Isani"
+    },
+    {
+        "id": 6,
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2017/11/vazisubani2-thumb-1.jpg",
+        "Name":"Vazisubani 2",
+        "Location":"Tbilisi, Chughureti"
+    },
+    {
+        "id": 7,
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2018/12/ortachala-tower-thumb-1.jpg",
+        "Name":"Ortachala Tower",
+        "Location":"Tbilisi, Ortachala"
+    },
+    {
+        "id": 8,
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2017/10/isani-c-thumb.jpg",
+        "Name":"Isani C",
+        "Location":"Tbilisi, Isani"
+    },
+    {
+        "id": 9,
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2021/05/kikvidze-thumb.jpg",
+        "Name":"Kikvidze Gardens A",
+        "Location":"Tbilisi, Didube"
+    },
+    {
+        "id": 10,
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2019/02/pekini-plaza-key.jpg",
+        "Name":"Pekini Plaza",
+        "Location":"Tbilisi, Saburtalo"
+    },
+    {
+        "id": 11,
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2019/06/vele-thumb.jpg",
+        "Name":"Vele Development",
+        "Location":"Tbilisi, Saburtalo"
+    },
+    {
+        "id": 12,
+        "Image": "https://tbilisi-property.com/wp-content/uploads/2021/06/gogol-thumb2-599x540.jpg",
+        "Name":"Gogol 42",
+        "Location":"Tbilisi, Chughureti"
     }
-    
 
+    
 
 
 

@@ -2,9 +2,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import  SliderImage1 from './Images/slider-image1.jpg'
 import  SliderImage2 from './Images/slider-image2.jpg'
 import  SliderImage3 from './Images/slider-image3.jpg'
-
-
-
 import './Header.css'
 function Carousel(){
 
@@ -22,22 +19,22 @@ function Carousel(){
     <div className="carousel-item active">
       <img src={SliderImage1} className="d-block w-100 img" alt="..."></img>
       <div className="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h5 className='Carouseltext1'>Webmedia</h5>
+        <p className='Carouseltext1'>A digital agency specializing in: web design, web application development, UX / UI design, optimization and digital marketing.</p>
       </div>
     </div>
     <div className="carousel-item">
       <img src={SliderImage2} className="d-block w-100 img" alt="..."></img>
       <div className="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
+      <h5 className='Carouseltext2'>Webmedia</h5>
+        <p className='Carouseltext2'>A digital agency specializing in: web design, web application development, UX / UI design, optimization and digital marketing.</p>
       </div>
     </div>
     <div className="carousel-item">
       <img src={SliderImage3} className="d-block w-100 img" alt="..."></img>
       <div className="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
+      <h5 className='Carouseltext3'>Webmedia</h5>
+        <p className='Carouseltext3'>A digital agency specializing in: web design, web application development, UX / UI design, optimization and digital marketing.</p>
       </div>
     </div>
 

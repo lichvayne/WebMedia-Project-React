@@ -2,8 +2,9 @@
 import Header1 from "./Header";
 import Carousel from "./Carousel";
 import Aboutus from "./Aboutus";
-import Slider from "./Slider";
-import Slider2 from "./Slider2";
+import PropertySlider from "./PropertySlider";
+import AgencySlider from "./AgencySlider";
+import Contact from "./Contact"
 import Footer from "./Footer"
 import './Header.css'
 
@@ -15,10 +16,12 @@ function App(){
       <Header1 />
       <Carousel />
       <Aboutus />
-      <Slider />
-      <Slider2 />
+      <PropertySlider />
+      <AgencySlider />
+      <Contact />
       <Footer />
     </div>
   )
+  
 }
 export default App
