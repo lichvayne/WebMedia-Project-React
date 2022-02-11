@@ -22,7 +22,7 @@ function Header1(){
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav ">
         <li className="nav-item">
-          <a className="nav-link active astyle" aria-current="page" href="https://www.facebook.com/" target="blank">Home</a>
+          <a className="nav-link active astyle" aria-current="page" href="#">Home</a>
         </li>
         <li className="nav-item">
           <a className="nav-link astyle" href="#">Properties</a>

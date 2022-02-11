@@ -66,7 +66,7 @@ export default class Responsive extends Component {
         <div className="product-box" >
          
         <div className="product-img">
-        <img alt="" src={data.Image} height="300px" width="300px"></img>
+        <img alt="" src={data.Image} height="auto" width="100%"></img>
         </div>
         <div className="product-text">
         <div className="type">
